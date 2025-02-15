@@ -60,20 +60,22 @@
 ![Monolith_Context_diagram.png](diagrams/Monolith_Context_diagram.png)
 
 # Задание 2. Проектирование микросервисной архитектуры
-
-В этом задании вам нужно предоставить только диаграммы в модели C4. Мы не просим вас отдельно описывать получившиеся микросервисы и то, как вы определили взаимодействия между компонентами To-Be системы. Если вы правильно подготовите диаграммы C4, они и так это покажут.
-
 **Диаграмма контейнеров (Containers)**
 
-Добавьте диаграмму.
+![Container_diagram_for_Smart_Home_System.png](diagrams/Container_diagram_for_Smart_Home_System.png)
 
 **Диаграмма компонентов (Components)**
 
-Добавьте диаграмму для каждого из выделенных микросервисов.
+![Component_diagram_for_SensorMonitoringService_and_SensorDataService.png](diagrams/Component_diagram_for_SensorMonitoringService_and_SensorDataService.png)
 
 **Диаграмма кода (Code)**
 
-Добавьте одну диаграмму или несколько.
+Диаграмма классов для SensorDataService
+![C4_class_sensor_data.png](diagrams/C4_class_sensor_data.png)
+
+Диаграмма классов для SensorMonitoringService
+
+![C4_class_sensor_monitoring.png](diagrams/C4_class_sensor_monitoring.png)
 
 # Задание 3. Разработка ER-диаграммы
 
